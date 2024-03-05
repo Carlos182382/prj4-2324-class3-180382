@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.myfont {
+	
+	color: coral;
+	font-family: "Micro 5", sans-serif;
+	
+}
+	
+
+		
+
+ .mybox {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-width: 25px;
+    border-color: black;
+	margin-bottom: 40px;
+	padding-bottom: 10px;
+	border-radius: 20px
+	
+}
+
+#test {
+	
+background-color: aqua;	
+	
+}

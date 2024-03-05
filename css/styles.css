@@ -22,8 +22,13 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: azure;
 }
+
+.h2text {
+	color: cornflowerblue
+	
+	}
 
 /* Styles for lists in the document */
 
